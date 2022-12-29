@@ -86,8 +86,4 @@ REPONAME: javascript-data-store
 
 Дополнительную информацию об использовании команды git clone и поддерживаемых форматах URL-адресов в Git см. на странице git clone: https://www.atlassian.com/ru/git/tutorials/setting-up-a-repository/git-clone 
 
-## Слияние веток
-Для того, чтобы добавить ветку в текущую ветку, используется команда *git merge <name branch>*
-
-### Вернуться к актуальному состоянию и продолжить работу
-Для того, чтобы вернуться к актуальному состоянию, используется команда *git checkout master*.
+Команды: git pull - стягиваем с github, git push - отправляем на github
